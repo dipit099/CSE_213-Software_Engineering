@@ -1,0 +1,3 @@
+interface Paymentfactory{
+    Payment createPayment();
+}
